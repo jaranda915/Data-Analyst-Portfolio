@@ -4,7 +4,7 @@ This repository is meant to contain examples of analysis I've done while working
 YouTube videos. Ultimately, this is meant to showcase my skills and expertise in data analysis and data manipulation using SQL, while highlighting my experience with visualizing data through Tableau.
 
 ## 1. World Layoff
-- **Data:** [Layoffs dataset (CSV)](https://github.com/jaranda915/Case_studies/blob/main/layoffs.csv)
+- **Data:** [Layoffs dataset (CSV)](World_layoffs_github/layoffs.csv)
 - **Code:** MySQL_clean or MySQL_analyze
 
 In this project I used a dataset found within a github repository that was filled with different companies and industries from different parts of the world showcasing their employee layoffs for the years 2020-2023. This project was my first attempt to analyze a dataset. 
