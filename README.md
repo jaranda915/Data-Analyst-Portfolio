@@ -7,6 +7,9 @@ YouTube videos. Ultimately, this is meant to showcase my skills and expertise in
 ## 1. World Layoff
 - **Data:** [Layoffs dataset (CSV)](World_layoffs_github/layoffs.csv)
 - **Code:** [MySQL_clean](World_layoffs_github/world_layoffs_clean.sql) or [MySQL_analyze](World_layoffs_github/world_layoffs_analyze.sql)
+- **Visual:** [Dashboard 1](https://public.tableau.com/app/profile/jose.aranda7220/viz/layoff_progression_dashboard/layoff_progression_visual),
+[Dashboard 2](https://public.tableau.com/app/profile/jose.aranda7220/viz/top5_yearly_company_layoffs/top5_yearly_company_layoffs),
+[Dashboard 3](https://public.tableau.com/app/profile/jose.aranda7220/viz/business_impacted_most/business_impacted_most)
 
 In this project I used a dataset found within a github repository that was filled with different companies and industries from different parts of the world showcasing their employee layoffs for the years 2020-2023. This project was my first attempt to analyze a dataset. 
 Therefore, the main focus of this project was to find out as much as possible from this data. The three main analysis from this project was analyzing the progression of layoffs, analyzing the top 5 companies that laid off the most employees per year, and analyzing what 
