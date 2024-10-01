@@ -23,8 +23,17 @@ business type got affected the most by these layoffs.
 *NOTE: The dataset isn't large, so the data was imported using 'Table Data Import Wizard'.*
 
 ## 2. Cyclistic Bike-Share
-- **Data:** [Cyclistic_Data_2023]
-- **Code:**
-- **Visual:**
+- **Data:** [Cyclistic_Data (202301-2023012)](https://divvy-tripdata.s3.amazonaws.com/index.html)
+- **Code:** [MySQL_clean](cyclistic_sql_code/coursera_cyclistic_clean.sql) or [MySQL_analyze](cyclistic_sql_code/coursera_cyclistic_analyze.sql)
+- **Visual:** [Dashboard 1](https://public.tableau.com/app/profile/jose.aranda7220/viz/company_status_rider/Dashboard1),
+[Dashboard 2](https://public.tableau.com/app/profile/jose.aranda7220/viz/total_rideable_type_used/Dashboard1),
+[Dashboard 3](https://public.tableau.com/app/profile/jose.aranda7220/viz/bikes_used_daily_visual/Dashboard1),
+[Dashboard 4](https://public.tableau.com/app/profile/jose.aranda7220/viz/bikes_used_monthly/Dashboard1),
+[Dashboard 5](https://public.tableau.com/app/profile/jose.aranda7220/viz/bikes_used_seasonly/Dashboard1),
+[Dashboard 6](https://public.tableau.com/app/profile/jose.aranda7220/viz/avg_ride_daily/avg_ride_daily_vis),
+[Dashboard 7](https://public.tableau.com/app/profile/jose.aranda7220/viz/avg_ride_monthly/Dashboard1),
+[Dashboard 8](https://public.tableau.com/app/profile/jose.aranda7220/viz/start_station_locations/Dashboard1),
+[Dashboard 9](https://public.tableau.com/app/profile/jose.aranda7220/viz/end_station_locations/Dashboard1)
 
-In this project, I used a dataset provided by the Google Data Analytic Certificate [(found here)](https://divvy-tripdata.s3.amazonaws.com/index.html). This dataset consisted of cyclistic data for a fictional company that tracked the annual memberships and casual riders through people using their 5,824 bycicles and 692 docking stations around Chicago. Additionally, this company considered casual riders to be customers who purchased a single-ride pass or full-day pass, while annual members are those who who purchased a cyclistic membership. With that in mind, the goal of this project was to identify how casual and annual members used Cyclistic bike's differently in order to convert casual members into annual members due to annual members being more profitable for the company.  
+
+In this project, I used a dataset provided by the Google Data Analytic Certificate [(found here)](https://divvy-tripdata.s3.amazonaws.com/index.html). This dataset consisted of cyclistic data for a fictional company that tracked the annual memberships and casual riders through people using their 5,824 bycicles and 692 docking stations around Chicago. Additionally, this company considered casual riders to be customers who purchased a single-ride pass or full-day pass, while annual members are those who who purchased a cyclistic membership. With that in mind, the goal of this project was to identify how casual and annual members used Cyclistic bike's differently in order to convert casual members into annual members due to annual members being more profitable for the company.  (explain analysis and clean process)
