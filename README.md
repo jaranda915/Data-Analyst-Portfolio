@@ -1,4 +1,4 @@
-# Jose Aranda Data Analyst Portfolio (work in progress)
+# Jose Aranda Data Analyst Portfolio
 ## Welcome to my personal portfolio repository! 
 This repository is meant to contain examples of analysis I've done while working with MySQL and Tableau. This repository is filled with a variety of projects ranging from solo projects, projects from data analytics certificate courses, and projects inspired by 
 YouTube videos. Ultimately, this is meant to showcase my skills and expertise in data analysis and data manipulation using SQL, while highlighting my experience with visualizing data through Tableau. 
